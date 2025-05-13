@@ -1,3 +1,5 @@
 streamlit
+pandas 
+re
 
 pip install -r requirements.txt
